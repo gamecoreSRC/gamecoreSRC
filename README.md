@@ -3,3 +3,4 @@
 - 📚 I’m currently learning ... c-sharp sometimes
 - 🤝 I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... you cant
+- 💬 I like to say "unimportant stuff" way too much
