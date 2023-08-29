@@ -1,6 +1,6 @@
-- 👋 hello im me and you are you
-- 🤔 I’m interested in ... whatever I'm interested in which changes daily
-- 📚 I’m currently learning ... c-sharp sometimes
+- 👋 hello
+- 🤔 I’m interested in ... I don't jnow
+- 📚 I’m currently learning ... nothing
 - 🤝 I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... you cant
-- 💬 I like to say "unimportant stuff" way too much
+- 📫 How to reach me ... you already have
+- 💬 I like...
