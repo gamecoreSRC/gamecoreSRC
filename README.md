@@ -1,5 +1,5 @@
 - 👋 hello
-- 🤔 I’m interested in ... I don't jnow
+- 🤔 I’m interested in ... I don't know
 - 📚 I’m currently learning ... nothing
 - 🤝 I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... you already have
